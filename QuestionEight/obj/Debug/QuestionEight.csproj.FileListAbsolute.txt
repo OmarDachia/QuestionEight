@@ -1,0 +1,5 @@
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionEight\QuestionEight\bin\Debug\QuestionEight.exe.config
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionEight\QuestionEight\bin\Debug\QuestionEight.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionEight\QuestionEight\bin\Debug\QuestionEight.pdb
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionEight\QuestionEight\obj\Debug\QuestionEight.exe
+c:\users\udachias\documents\visual studio 2012\Projects\QuestionEight\QuestionEight\obj\Debug\QuestionEight.pdb
